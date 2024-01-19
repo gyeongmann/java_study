@@ -2,7 +2,7 @@
 
 | 문제 번호 및 제출 코드 | 문제 제목 및 링크 |
 | ---- | ---- |
-| [10163](src/N110163.java) | [색종이](https://www.acmicpc.net/problem/10163)<br> |
+| [10163](src/N10163.java) | [색종이](https://www.acmicpc.net/problem/10163)<br> |
 
 # DynamicProgramming
 
