@@ -11,3 +11,4 @@
 | ---- | ---- |
 | [1463](src/DynamicProgramming/N1463.java) | [1로 만들기](https://www.acmicpc.net/problem/1463)<br> |
 | [2579](src/DynamicProgramming/N2579.java) | [계단오르기](https://www.acmicpc.net/problem/2579) |
+| [17070](src/DynamicProgramming/N2579.java) | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) |
