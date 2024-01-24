@@ -15,7 +15,7 @@
 
 | 문제 번호 및 제출 코드 | 문제 제목 및 링크 |
 | ---- | ---- |
-| [1326](src/Bruteforce/N7696.java) | [폴짝폴짝](https://www.acmicpc.net/problem/1326)<br> |
+| [1326](src/GraphTheory/N1326.java) | [폴짝폴짝](https://www.acmicpc.net/problem/1326)<br> |
 
 # DynamicProgramming
 
