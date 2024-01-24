@@ -16,6 +16,8 @@
 | 문제 번호 및 제출 코드 | 문제 제목 및 링크 |
 | ---- | ---- |
 | [1326](src/GraphTheory/N1326.java) | [폴짝폴짝](https://www.acmicpc.net/problem/1326)<br> |
+| [1520](src/GraphTheory/N1520.java) | [내리막길](https://www.acmicpc.net/problem/1520)<br> |
+| [27211](src/GraphTheory/N27211.java) | [도넛 행성](https://www.acmicpc.net/problem/27211)<br> |
 
 # DynamicProgramming
 
