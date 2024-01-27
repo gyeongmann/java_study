@@ -4,11 +4,13 @@
 | ---- | ---- |
 | [2304](src/AlgorithmStudy/N2304.java) | [창고다각형](https://www.acmicpc.net/problem/2304)<br> |
 | [10163](src/N10163.java) | [색종이](https://www.acmicpc.net/problem/10163)<br> |
+| [10972](src/N10972.java) | [다음 순열](https://www.acmicpc.net/problem/10972)<br> |
 
 # Bruteforce
 
 | 문제 번호 및 제출 코드 | 문제 제목 및 링크 |
 | ---- | ---- |
+| [3961](src/Bruteforce/N3961.java) | [터치스크린 키보드](https://www.acmicpc.net/problem/3961)<br> |
 | [7696](src/Bruteforce/N7696.java) | [반복하지 않는 수](https://www.acmicpc.net/problem/7696)<br> |
 
 # GraphTheory
