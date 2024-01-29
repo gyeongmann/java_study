@@ -6,6 +6,7 @@
 | [2304](src/AlgorithmStudy/N2304.java) | [창고다각형](https://www.acmicpc.net/problem/2304)<br>  |
 | [10163](src/N10163.java)              | [색종이](https://www.acmicpc.net/problem/10163)<br>   |
 | [10972](src/N10972.java)              | [다음 순열](https://www.acmicpc.net/problem/10972)<br> |
+| [17087](src/N17087.java)              | [숨바꼭질 6](https://www.acmicpc.net/problem/17087)<br> |
 
 # Bruteforce
 
