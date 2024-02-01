@@ -21,6 +21,7 @@
 | 문제 번호 및 제출 코드                        | 문제 제목 및 링크                                         |
 |--------------------------------------|----------------------------------------------------|
 | [1012](src/GraphTheory/N1012.java)   | [유기농 배추](https://www.acmicpc.net/problem/1012)<br>   |
+| [1260](src/GraphTheory/N1260.java)   | [DFS와 BFS](https://www.acmicpc.net/problem/1260)<br>   |
 | [1326](src/GraphTheory/N1326.java)   | [폴짝폴짝](https://www.acmicpc.net/problem/1326)<br>   |
 | [1520](src/GraphTheory/N1520.java)   | [내리막길](https://www.acmicpc.net/problem/1520)<br>   |
 | [2178](src/GraphTheory/N2178.java)   | [미로 탐색](https://www.acmicpc.net/problem/2178)<br>  |
