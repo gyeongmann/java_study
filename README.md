@@ -26,6 +26,7 @@
 | [1520](src/GraphTheory/N1520.java)   | [내리막길](https://www.acmicpc.net/problem/1520)<br>   |
 | [1697](src/GraphTheory/N1697.java)   | [숨바꼭질](https://www.acmicpc.net/problem/1697)<br>   |
 | [2178](src/GraphTheory/N2178.java)   | [미로 탐색](https://www.acmicpc.net/problem/2178)<br>  |
+| [2468](src/GraphTheory/N2468.java)   | [안전 영역](https://www.acmicpc.net/problem/2468)<br>  |
 | [7576](src/GraphTheory/N7576.java)   | [토마토](https://www.acmicpc.net/problem/7576)<br>  |
 | [11724](src/GraphTheory/N11724.java)   | [연결요소의 개수](https://www.acmicpc.net/problem/11724)<br>  |
 | [27211](src/GraphTheory/N27211.java) | [도넛 행성](https://www.acmicpc.net/problem/27211)<br> |
