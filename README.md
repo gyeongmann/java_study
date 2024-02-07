@@ -28,6 +28,7 @@
 | [2178](src/GraphTheory/N2178.java)   | [미로 탐색](https://www.acmicpc.net/problem/2178)<br>  |
 | [2468](src/GraphTheory/N2468.java)   | [안전 영역](https://www.acmicpc.net/problem/2468)<br>  |
 | [2636](src/GraphTheory/N2636.java)   | [치즈](https://www.acmicpc.net/problem/2636)<br>  |
+| [7569](src/GraphTheory/N7569.java)   | [토마토](https://www.acmicpc.net/problem/7569)<br>  |
 | [7576](src/GraphTheory/N7576.java)   | [토마토](https://www.acmicpc.net/problem/7576)<br>  |
 | [10026](src/GraphTheory/N10026.java)   | [적록색약](https://www.acmicpc.net/problem/10026)<br>  |
 | [11724](src/GraphTheory/N11724.java)   | [연결요소의 개수](https://www.acmicpc.net/problem/11724)<br>  |
