@@ -5,15 +5,15 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         int N = sc.nextInt();
-        int[] dist = new int[N - 1];
-        int[] price = new int[N];
+        long[] dist = new long[N - 1];
+        long[] price = new long[N];
         for (int i = 0; i < N - 1; i++) {
-            dist[i] = sc.nextInt();
+            dist[i] = sc.nextLong();
         }
 
-        int min = Integer.MAX_VALUE;
+        long min = Long.MAX_VALUE;
         for (int i = 0; i < N; i++) {
-            int cur = sc.nextInt();
+            long cur = sc.nextLong();
             if (cur < min) {
                 min = cur;
             }
